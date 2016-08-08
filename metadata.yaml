@@ -1,0 +1,29 @@
+_repo: Dick-Prescotts-s-Fourth-Year-at-West-Point--13-Or-Ready-to-Drop-the-Gray-for-Shoulder-Straps_12807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2004-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States Military Academy -- Juvenile fiction'
+- !lcsh 'College stories'
+- !lcc 'PZ'
+- !lcsh 'Military cadets -- United States -- Juvenile fiction'
+- GITenberg
+title: "Dick Prescotts's Fourth Year at West Point\r\nOr, Ready to Drop the Gray for\
+  \ Shoulder Straps"
+url: http://www.gutenberg.org/ebooks/12807
